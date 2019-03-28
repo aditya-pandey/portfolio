@@ -1,0 +1,22 @@
+  #name{
+    color:darkblue;
+  }
+  #icon{
+    font-size:2.5em;
+  }
+  .fab{
+    font-size:1.5em;
+    color: darkblue
+    }
+  .fa-codepen{
+    color:black;
+  }
+  .fa-quora{
+    color:darkred;
+  }
+  .fa-twitter{
+    color: #0084b4;
+  }
+  .fa-free-code-camp{
+    color:green;
+  }
